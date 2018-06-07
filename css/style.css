@@ -1279,6 +1279,7 @@ a {
 	transition: all .2s ease-in-out;
 }
 .index-news .wrap .items .item:hover {
+	filter: drop-shadow(2px 8px 20px 0 rgba(31,32,68,.25));
 	-webkit-box-shadow: 2px 8px 20px 0 rgba(31,32,68,.25);
 	box-shadow: 2px 8px 20px 0 rgba(31,32,68,.25);
 	-webkit-transform: scale(1.01);
@@ -1736,7 +1737,8 @@ a {
 	background-size: contain;
 	-webkit-animation: jump 1.5s infinite;
 	animation: jump 1.5s infinite;
-
+	filter: drop-shadow(2px 8px 20px 0 rgba(31,32,68,.25));
+	
 }
 .geo-search:after {
 	content: "";
@@ -1752,7 +1754,7 @@ a {
 	-webkit-transform: translate(-50%,0);
 	-ms-transform: translate(-50%,0);
 	transform: translate(-50%,0);
-
+	filter: drop-shadow(2px 8px 20px 0 rgba(31,32,68,.25));
 }
 @-webkit-keyframes jump {
 	0% {
