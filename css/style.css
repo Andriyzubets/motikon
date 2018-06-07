@@ -538,6 +538,8 @@ a {
 	-webkit-transform: translate(0,0);
 	-ms-transform: translate(0,0);
 	transform: translate(0,0);
+	filter: drop-shadow(2px 8px 20px rgba(31,32,68,.25));
+
 }
 .slider-section .wrap li.active:before {
 	-webkit-animation: scale 20s linear infinite;
