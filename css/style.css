@@ -1062,6 +1062,62 @@ a {
 	-webkit-background-size: contain;
 	background-size: contain;
 }
+.doors-cat .items .item:nth-of-type(1) .img {
+	background: url(../img/door1.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item .item-pre .double {
+	width: 90%;
+	margin: 0 auto;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+.doors-cat .items .item:nth-of-type(2) .img {
+	background: url(../img/door2.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item:nth-of-type(3) .img {
+	background: url(../img/door3.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item:nth-of-type(4) .img {
+	background: url(../img/door3.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item:nth-of-type(5) .img {
+	background: url(../img/door1.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item:nth-of-type(6) .img {
+	background: url(../img/door2.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item:nth-of-type(7) .img {
+	background: url(../img/door1.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.doors-cat .items .item:nth-of-type(8) .img {
+	background: url(../img/door3.png) 50% no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
 .windows-cat .items .item .item-pre .double div:nth-of-type(1) {
 	width: 40%;
 	color: #000000;
